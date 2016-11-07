@@ -164,7 +164,7 @@
   (log/info (get-last-update))
   ;; Start Bot
   ;;(updater/start_handlers h (updater/start_polling bot-token 100 1000 0))
-  (updater/start_handlers h (updater/start_webhook bot-token "tzapil.tk" 8443 "hook" "cert.pem" "cert.keystore" "LjvbrGfhbn1"))
+  (updater/start_handlers h (updater/start_webhook bot-token "tzapil.tk" 8443 "rss" 7772))
   ;; Start poll rss
   (start-polling)
   ;; idle
