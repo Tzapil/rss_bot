@@ -1,4 +1,4 @@
-(defproject rss-get "0.1.0-SNAPSHOT"
+(defproject rss-get "0.1.1-SNAPSHOT"
   :description "Feed bot"
   :url "https://telegram.me/fdr_bot"
   :license {:name "Eclipse Public License"
