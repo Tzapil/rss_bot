@@ -12,7 +12,7 @@
     (:gen-class))
 
 ;; Telegram bot token
-(def bot-token "***REMOVED***")
+(def bot-token "")
 
 ;; Feeds file
 (def feeds-file "./feeds.json")
